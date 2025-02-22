@@ -51,6 +51,7 @@ Movie Finder is a web application that allows users to search for movies, view t
 1. Search for movies using the search bar.
 2. View trending movies dynamically based on user search patterns.
 3. Click on a movie to view details (extendable for more details in future versions).
+4. Help in finding best movies based on IMDB rating
 
 ## API Integration 🔗
 
